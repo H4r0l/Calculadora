@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Una calculadora en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4r0l/Calculadora.git"
+  },
+  "author": "Harol Urrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H4r0l/Calculadora/issues"
+  },
+  "homepage": "https://github.com/H4r0l/Calculadora#readme"
+}
