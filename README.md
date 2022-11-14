@@ -2,8 +2,10 @@
 ## Estructuración
 
 ### Organización
-+ Uso de 3 documentos:
-	![image](https://user-images.githubusercontent.com/65699208/201266757-c436a4e8-3bb1-4207-ab68-9da59901b595.png)
++ Documentos basicos:
+![Captura](https://user-images.githubusercontent.com/65699208/201573516-0be7fe8a-3c9b-48b0-ab17-16187c38c244.PNG)
++ Estructura general: 
+![2](https://user-images.githubusercontent.com/65699208/201573640-36c319e6-8c7d-4bea-bb32-ba076666d3f3.PNG)
 + Creación de Readme
 
 ### Código Limpio
