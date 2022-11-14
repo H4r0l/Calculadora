@@ -7,7 +7,8 @@
   "description": "Una calculadora en JavaScript",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/H4r0l/Calculadora/issues"
   },
-  "homepage": "https://github.com/H4r0l/Calculadora#readme"
+  "homepage": "https://github.com/H4r0l/Calculadora#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+  
 }

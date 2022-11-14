@@ -103,8 +103,8 @@ function resolver(){
       break;
 
     case "-":
-        res = parseFloat(operandoa) - parseFloat(operandob);
-        break;
+      res = parseFloat(operandoa) - parseFloat(operandob);
+      break;
 
     case "*":
       res = parseFloat(operandoa) * parseFloat(operandob);
@@ -116,6 +116,7 @@ function resolver(){
   }
   resetear();
   resultado.textContent = res;
+  
 }
 
 var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
