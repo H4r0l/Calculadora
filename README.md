@@ -1,3 +1,8 @@
+## Planteamiento
+#### Una empresa de contabilidad quiere estar al día con las alternativas tecnológicas de su sector, para ello van a empezar con una aplicación en la que se harán operaciones sencillas, esto con el fin de motivar a los inversores de la compañía.
+- Esta aplicación deberá realizar las operaciones básicas(Suma, resta, multiplicación, División), dar el resultado correctamente, mostrar todos los números, botón para eliminar caracteres, botón para limpiar la calculadora
+- Será 100% responsiva en todos los dispositivos (Mobile, Tablet, Desktop), Además de tener modo Día y Noche
+- En el repositorio donde se almacenara la aplicación debe haber un archivo README que describa y detalle el proyecto, Junto a esto se necesitará una documentación con muestras de testeo por medio de frameworks.
 
 ## Estructuración
 
