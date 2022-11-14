@@ -1,8 +1,8 @@
 module.exports = {
   darkMode: 'class',
   content: [
-    './public/index.html',
-    './src/input.css',
+    'index.html',
+    './public/styles.css',
     './public/script.js'
   ],
 }
